@@ -44,7 +44,7 @@ body {
     font-family: "Lato", sans-serif;
     background-color: rgb(236,253,237); /* Le fond de la page sera de cette couleur */
     color: rgb(100,0,50,0.8); 
-    background: url("/projetarcherire/2/ressources/photo1.png") no-repeat;
+    background: url("ressources/photo1.png") no-repeat;
     background-size: cover;     /*Image centrale */
     margin: 0;
     padding: 0;                 /* centrage hauteur et largeur de l'image centrale en responsive */
